@@ -1,5 +1,6 @@
                                 PASSWORD BASED DOOR LOCK
 The Password-Based Door Switch Simulation is a fun and educational project that mimics the functionality of a secure door system. Although it’s not meant for real-world security applications, it provides valuable insights into how electronic locks and access control work.
+
 Project Overview
 Objective:
 The primary goal of this simulation is to allow users to enter a secret password using a keypad.
